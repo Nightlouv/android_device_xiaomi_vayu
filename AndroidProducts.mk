@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_vayu.mk
+    $(LOCAL_DIR)/arrow_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_vayu-eng \
-    potato_vayu-userdebug \
-    potato_vayu-user
+    arrow_vayu-eng \
+    arrow_vayu-userdebug \
+    arrow_vayu-user
